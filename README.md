@@ -1,5 +1,5 @@
 This is a PyTorch example implementation of our paper: 
-**Contrastive Learning with Curricular Weighting Strategy**
+**Mining Negative Samples on Contrastive Learning via Curricular Weighting Strategy**
 
 1.The codes of CIFAR-10,CIFAR-100,STL-10 and SVHN are in *image directory*.  
 2.You can download the datasets online and store them in *data directory*.  
